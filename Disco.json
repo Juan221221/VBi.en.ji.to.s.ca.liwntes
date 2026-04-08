@@ -1,0 +1,204 @@
+Aquí tienes la extracción de las 50 canciones en formato JSON, incluyendo el título y la URL directa de descarga de cada archivo MP3.
+```json
+[
+  {
+    "title": "001 . grease hist~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/001%20.%20grease%20%20%20hist~1.mp3"
+  },
+  {
+    "title": "002 . cosa caliente dona summer~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/002%20.%20cosa%20caliente%20%20%20%20%20dona%20summer~1.mp3"
+  },
+  {
+    "title": "003 . niño japones saky oshiro~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/003%20.%20%20ni%C3%B1o%20japones%20%20saky%20oshiro~1.mp3"
+  },
+  {
+    "title": "004 . staying alive bee gees~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/004%20.%20%20staying%20%20alive%20%20bee%20gees~1.mp3"
+  },
+  {
+    "title": "005 . D.I. S.C.O. OTTAWA~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/005%20.%20%20D.I.%20S.C.O.%20OTTAWA~1.mp3"
+  },
+  {
+    "title": "006 . grazy music ottawa~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/006%20.%20grazy%20%20music%20%20ottawa~1.mp3"
+  },
+  {
+    "title": "007 . boom bomm - nazia~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/007%20.%20%20boom%20bomm%20-%20nazia~1.mp3"
+  },
+  {
+    "title": "008 . CHICA BAILA CHICA - TINA CHARLES~2.mp3",
+    "url": "https://archive.org/download/92837173928174929738/008%20.%20CHICA%20BAILA%20CHICA%20%20-%20TINA%20CHARLES~2.mp3"
+  },
+  {
+    "title": "009 . MELOW LOVIN JUDY CHEKEES~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/009%20.%20%20MELOW%20%20LOVIN%20%20JUDY%20CHEKEES~1.mp3"
+  },
+  {
+    "title": "010 . VOLVES VOUS abba~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/010%20.%20%20VOLVES%20VOUS%20%20%20abba~1.mp3"
+  },
+  {
+    "title": "011 . sabado fiebre por la noche bee gees~2.mp3",
+    "url": "https://archive.org/download/92837173928174929738/011%20.%20%20sabado%20fiebre%20por%20la%20noche%20%20%20bee%20gees~2.mp3"
+  },
+  {
+    "title": "012 . ymca villege people~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/012%20.%20%20ymca%20%20villege%20%20people~1.mp3"
+  },
+  {
+    "title": "013 . manos arriba ottawa~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/013%20.%20%20manos%20arriba%20ottawa~1.mp3"
+  },
+  {
+    "title": "014 . meli melo ottawa~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/014%20.%20%20meli%20melo%20%20ottawa~1.mp3"
+  },
+  {
+    "title": "015 . funky tonw lipps~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/015%20.%20%20funky%20tonw%20%20lipps~1.mp3"
+  },
+  {
+    "title": "016 . BORTHILIFE PATRIC HERNANDEZ~2.mp3",
+    "url": "https://archive.org/download/92837173928174929738/016%20.%20%20BORTHILIFE%20%20%20PATRIC%20HERNANDEZ~2.mp3"
+  },
+  {
+    "title": "017 . macho celi bee~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/017%20.%20%20%20macho%20%20celi%20bee~1.mp3"
+  },
+  {
+    "title": "018 . musica de diseño lipps~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/018%20.%20%20%20musica%20de%20dise%C3%B1o%20%20lipps~1.mp3"
+  },
+  {
+    "title": "019 . yu re ottawa~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/019%20.%20%20yu%20re%20%20ottawa~1.mp3"
+  },
+  {
+    "title": "020 . que tiene que ver esto con el amor - tina charles~2.mp3",
+    "url": "https://archive.org/download/92837173928174929738/020%20.%20%20que%20tiene%20que%20ver%20esto%20con%20el%20%20amor%20-%20tina%20charles~2.mp3"
+  },
+  {
+    "title": "021 . LA REYNA DEL BAILE abba~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/021%20.%20%20LA%20REYNA%20DEL%20BAILE%20%20%20abba~1.mp3"
+  },
+  {
+    "title": "022 . hombre araña shanne cool~2.mp3",
+    "url": "https://archive.org/download/92837173928174929738/022%20.%20%20hombre%20ara%C3%B1a%20%20%20shanne%20cool~2.mp3"
+  },
+  {
+    "title": "023 . shot in the night shapir~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/023%20.%20%20shot%20%20in%20the%20%20night%20%20%20shapir~1.mp3"
+  },
+  {
+    "title": "024 . BOGGY WOGGY CLAUDIA BARRY~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/024%20.%20%20BOGGY%20WOGGY%20%20CLAUDIA%20%20BARRY~1.mp3"
+  },
+  {
+    "title": "025 . VAMOS A CASA - BONEY M~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/025%20.%20%20VAMOS%20A%20CASA%20-%20BONEY%20M~1.mp3"
+  },
+  {
+    "title": "026 . TAXI PEP LIENHARD BAMD~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/026%20.%20%20TAXI%20%20%20%20%20PEP%20LIENHARD%20%20BAMD~1.mp3"
+  },
+  {
+    "title": "027 . DADDY COLL - BONEY M~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/027%20.%20%20DADDY%20COLL%20-%20BONEY%20M~1.mp3"
+  },
+  {
+    "title": "028 . TRAGEDY BEE GEES~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/028%20.%20%20TRAGEDY%20%20%20%20BEE%20GEES~1.mp3"
+  },
+  {
+    "title": "029 . your re the one grease~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/029%20.%20%20your%20%20re%20the%20one%20%20%20grease~1.mp3"
+  },
+  {
+    "title": "030 . you should be dancing bee gees~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/030%20.%20you%20%20should%20%20be%20dancing%20%20bee%20gees~1.mp3"
+  },
+  {
+    "title": "031 . love love dance tina charles~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/031%20.%20love%20love%20%20dance%20tina%20charles~1.mp3"
+  },
+  {
+    "title": "032 . en la nave villege people~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/032%20.%20en%20la%20nave%20%20villege%20people~1.mp3"
+  },
+  {
+    "title": "033 . moscu gerge dan~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/033%20.%20%20moscu%20%20gerge%20dan~1.mp3"
+  },
+  {
+    "title": "034 . rasputin boney m~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/034%20.%20%20rasputin%20boney%20m~1.mp3"
+  },
+  {
+    "title": "035 . bajo el fuego jackie~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/035%20.%20bajo%20el%20fuego%20%20jackie~1.mp3"
+  },
+  {
+    "title": "036 CORAZON DE VIDRIO - Blondi~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/036%20%20CORAZON%20DE%20VIDRIO%20-%20Blondi~1.mp3"
+  },
+  {
+    "title": "037 . MY FRIND JACK - BONEY M~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/037%20.%20%20MY%20FRIND%20JACK%20%20-%20BONEY%20M~1.mp3"
+  },
+  {
+    "title": "038 . more than a woman bee gees~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/038%20.%20more%20%20than%20%20a%20woman%20%20%20bee%20gees~1.mp3"
+  },
+  {
+    "title": "039 . no puede parar la musica village people~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/039%20.%20no%20puede%20%20parar%20la%20musica%20%20village%20people~1.mp3"
+  },
+  {
+    "title": "040 pasaje de ida eruption~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/040%20%20pasaje%20de%20ida%20%20eruption~1.mp3"
+  },
+  {
+    "title": "041 . HELP GET ME SOME HELP OTTAWA~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/041%20.%20HELP%20%20GET%20%20ME%20%20SOME%20%20%20HELP%20%20OTTAWA~1.mp3"
+  },
+  {
+    "title": "042 . fly robin fly silver comvetion~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/042%20.%20fly%20robin%20fly%20%20silver%20comvetion~1.mp3"
+  },
+  {
+    "title": "043 . get up and boogle long silver convetion~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/043%20.%20get%20up%20%20and%20%20boogle%20%20long%20%20%20silver%20%20convetion~1.mp3"
+  },
+  {
+    "title": "044 disco indu nazia hassan~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/044%20%20disco%20indu%20%20nazia%20hassan~1.mp3"
+  },
+  {
+    "title": "045 . ATOMICO BLONDIE~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/045%20.%20ATOMICO%20%20%20BLONDIE~1.mp3"
+  },
+  {
+    "title": "046 . bad girls dona sumer~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/046%20.%20bad%20girls%20%20%20dona%20sumer~1.mp3"
+  },
+  {
+    "title": "047 . celebrationa kool & THE GANG~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/047%20.%20celebrationa%20%20kool%20%26%20THE%20GANG~1.mp3"
+  },
+  {
+    "title": "048 CHER CHEZ PAZ MADELEIN KANE -~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/048%20%20CHER%20CHEZ%20PAZ%20%20%20%20MADELEIN%20KANE%20-~1.mp3"
+  },
+  {
+    "title": "049 ESTRELLAS SYLVESTER~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/049%20%20ESTRELLAS%20%20SYLVESTER~1.mp3"
+  },
+  {
+    "title": "050 MAMMA MIA abba~1.mp3",
+    "url": "https://archive.org/download/92837173928174929738/050%20%20MAMMA%20MIA%20%20abba~1.mp3"
+  }
+]
