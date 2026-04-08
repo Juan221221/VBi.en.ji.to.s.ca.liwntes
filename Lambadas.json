@@ -1,0 +1,210 @@
+Aquí tienes la extracción de las nuevas URLs de archivos MP3 convertidas al formato JSON:
+```json
+[
+  {
+    "title": "001  YO SE QUE TENGO   BANDA SHOW",
+    "url": "https://archive.org/download/9382747183728172/001%20%20YO%20SE%20QUE%20TENGO%20%20%20BANDA%20SHOW~1.mp3"
+  },
+  {
+    "title": "001 .  QUE VENGAN LOS BOMBEROS  DANIELA  ROMO",
+    "url": "https://archive.org/download/9382747183728172/001%20.%20%20QUE%20VENGAN%20LOS%20BO%2CMBEROS%20%20DANIELA%20%20ROMO~1.mp3"
+  },
+  {
+    "title": "002 .  SOY TU SOMBRA  KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/002%20.%20%20SOY%20TU%20SOMBRA%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "003 .  AY AMOR  LOS MELODICOS",
+    "url": "https://archive.org/download/9382747183728172/003%20.%20%20AY%20AMOR%20%20LOS%20MELODICOS~1.mp3"
+  },
+  {
+    "title": "004 . EL LA ENGAÑO  NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/004%20.%20EL%20LA%20ENGA%C3%91O%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "005 .  SI QUIERES MI AMOR  KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/005%20.%20%20SI%20QUIERES%20MI%20AMOR%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "006 .  EL PORTEÑITO   BANDA LA BOCANA",
+    "url": "https://archive.org/download/9382747183728172/006%20.%20%20EL%20PORTE%C3%91ITO%20%20%20BANDA%20LA%20BOCANA~1.mp3"
+  },
+  {
+    "title": "007 .  MI CORAZON LOS MELODICOS",
+    "url": "https://archive.org/download/9382747183728172/007%20.%20%20MI%20CORAZON%20LOS%20MELODICOS~1.mp3"
+  },
+  {
+    "title": "008.  ZUMBALO   NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/008.%20%20ZUMBALO%20%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "009 . EL MENEITO   NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/009%20.%20EL%20MENEITO%20%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "010 . TODO TODO  DANIELA ROMO",
+    "url": "https://archive.org/download/9382747183728172/010%20.%20TODO%20TODO%20%20DANIELA%20ROMO~1.mp3"
+  },
+  {
+    "title": "011 . MENEALO  FRANSHESKA",
+    "url": "https://archive.org/download/9382747183728172/011%20.%20MENEALO%20%20FRANSHESKA~1.mp3"
+  },
+  {
+    "title": "012 .  DE AMOR Y DE MIEL  DIVIANA",
+    "url": "https://archive.org/download/9382747183728172/012%20.%20%20DE%20AMOR%20Y%20DE%20MIEL%20%20DIVIANA~1.mp3"
+  },
+  {
+    "title": "013 . EL COLESTEROL  FITO OLIVARES",
+    "url": "https://archive.org/download/9382747183728172/013%20.%20EL%20COLESTEROL%20%20FITO%20OLIVARES~1.mp3"
+  },
+  {
+    "title": "014 .  LA COCOTERA  KARINA CRUZET",
+    "url": "https://archive.org/download/9382747183728172/014%20.%20%20LA%20COCOTERA%20%20KARINA%20CRUZET~1.mp3"
+  },
+  {
+    "title": "015 .  MENTIRITAS  KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/015%20.%20%20MENTIRITAS%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "016 .  UN SABOR A NADA  KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/016%20.%20%20UN%20SABOR%20A%20NADA%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "017 .  VUELVE   SON DE AZUCAR",
+    "url": "https://archive.org/download/9382747183728172/017%20.%20%20VUELVE%20%20%20SON%20DE%20AZUCAR~1.mp3"
+  },
+  {
+    "title": "018 .  Y SIEMPRE   KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/018%20.%20%20Y%20SIEMPRE%20%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "019 .  UNA PEÑA TENGO YO  NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/019%20.%20%20UNA%20PENA%20TENGO%20YO%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "020 .  MAR Y LUNA  PEKOS KAMBA",
+    "url": "https://archive.org/download/9382747183728172/020%20.%20%20MAR%20Y%20LUNA%20%20PEKOS%20KAMBA~1.mp3"
+  },
+  {
+    "title": "021 .  JUNTO A TU CORAZON MIGUEL MOLY",
+    "url": "https://archive.org/download/9382747183728172/021%20.%20%20JUNTO%20A%20TU%20CORAZON%20MIGUEL%20MOLY~1.mp3"
+  },
+  {
+    "title": "022 . NO ME HAGAS MAS DAÑO  CARAMELO KALIENTE",
+    "url": "https://archive.org/download/9382747183728172/022%20.%20NO%20ME%20HAGAS%20MAS%20DA%C3%91O%20%20CARA%2CMELO%20KALIENTE~1.mp3"
+  },
+  {
+    "title": "023 . LA LLORONA  BARBARA",
+    "url": "https://archive.org/download/9382747183728172/023%20.%20LA%20LLORONA%20%20BARBARA~1.mp3"
+  },
+  {
+    "title": "024 .  TU LA TIENES QUE PAGAR  NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/024%20.%20%20TU%20LA%20TIENES%20QUE%20PAGAR%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "025 . CARACAS  CARACAS  LOS EMBAJADORES DEL VALLENATO",
+    "url": "https://archive.org/download/9382747183728172/025%20.%20CARACAS%20%20CARACAS%20%20LOS%20EMBAJADORES%20DEL%20VALLENATO~1.mp3"
+  },
+  {
+    "title": "026 . EVERYBODY  DANCE  FRANSHESKA",
+    "url": "https://archive.org/download/9382747183728172/026%20.%20EVERYBODY%20%20DANCE%20%20FRANSHESKA~1.mp3"
+  },
+  {
+    "title": "027.   DULCE MENTE BELLA  MIGUEL MOLY",
+    "url": "https://archive.org/download/9382747183728172/027.%20%20%20DULCE%20MENTE%20BELLA%20%20MIGUEL%20MOLY~1.mp3"
+  },
+  {
+    "title": "028 . POR TU CULPA DE TU ORGULLO   CHARITO ALONZO",
+    "url": "https://archive.org/download/9382747183728172/028%20.%20POR%20TU%20CULPA%20DE%20TU%20ORGULLO%20%20%20CHARITO%20ALONZO~1.mp3"
+  },
+  {
+    "title": "029 . SOPA DE CARACOL   BANDA BLANCA",
+    "url": "https://archive.org/download/9382747183728172/029%20.%20SOPA%20DE%20CARACOL%20%20%20BANDA%20BLANCA~1.mp3"
+  },
+  {
+    "title": "030 . QUE VENGAN LOS BOMBEROS  DANIELA  ROMO",
+    "url": "https://archive.org/download/9382747183728172/030%20.%20QUE%20VENGAN%20LOS%20BO%2CMBEROS%20%20DANIELA%20%20ROMO~1.mp3"
+  },
+  {
+    "title": "031 .  JUANA LA CUBANA   LAS CHICAS DEL CAN",
+    "url": "https://archive.org/download/9382747183728172/031%20.%20%20JUANA%20LA%20CUBANA%20%20%20LAS%20CHICAS%20DEL%20CAN~1.mp3"
+  },
+  {
+    "title": "032 .  BOQUITA COLORA  LIZANDRO MEZA",
+    "url": "https://archive.org/download/9382747183728172/032%20.%20%20BOQUITA%20COLORA%20%20LIZANDRO%20MEZA~1.mp3"
+  },
+  {
+    "title": "033 .  TU PUM PUM    LIZA M",
+    "url": "https://archive.org/download/9382747183728172/033%20.%20%20TU%20PUM%20PUM%20%20%20%20LIZA%20M~1.mp3"
+  },
+  {
+    "title": "034 . ERES MI CANCION   ROBERTO BALDES",
+    "url": "https://archive.org/download/9382747183728172/034%20.%20ERES%20MI%20CANCION%20%20%20ROBERTO%20BALDES~1.mp3"
+  },
+  {
+    "title": "035 . INGRATO  LIZA M",
+    "url": "https://archive.org/download/9382747183728172/035%20.%20INGRATO%20%20LIZA%20M~1.mp3"
+  },
+  {
+    "title": "036 . BLANCA   VICO C",
+    "url": "https://archive.org/download/9382747183728172/036%20.%20BLANCA%20%20%20VICO%20C~1.mp3"
+  },
+  {
+    "title": "037 .  SI SUPIERAS   KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/037%20.%20%20SI%20SUPIERAS%20%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "038 .  PRINCESA DEL SOL   NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/038%20.%20%20PRINCESA%20DEL%20SOL%20%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "039 . TERNURA  KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/039%20.%20TERNURA%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "040 .  EL SANTO CACHON  LOS EMBAJADORES DEL VALLENATO",
+    "url": "https://archive.org/download/9382747183728172/040%20.%20%20EL%20SANTO%20CACHON%20%20LOS%20EMBAJADORES%20DEL%20VALLENATO~1.mp3"
+  },
+  {
+    "title": "041 .  HACE UN MES  KARACOLENADO",
+    "url": "https://archive.org/download/9382747183728172/041%20.%20%20HACE%20UN%20MES%20%20KARACOLENADO~1.mp3"
+  },
+  {
+    "title": "042 . SIETE  SON   ZONA ROJA",
+    "url": "https://archive.org/download/9382747183728172/042%20.%20SIETE%20%20SON%20%20%20ZONA%20ROJA~1.mp3"
+  },
+  {
+    "title": "043 . LATE EL CORAZON  NATUSHA",
+    "url": "https://archive.org/download/9382747183728172/043%20.%20LATE%20EL%20CORAZON%20%20NATUSHA~1.mp3"
+  },
+  {
+    "title": "044 . LA BILIRRUBINA   JUAN LUIS GUERRA",
+    "url": "https://archive.org/download/9382747183728172/044%20.%20LA%20BILIRRUBINA%20%20%20JUAN%20LUIS%20GUERRA~1.mp3"
+  },
+  {
+    "title": "045 .  MAREJADA   ROBERTO ANTONIO",
+    "url": "https://archive.org/download/9382747183728172/045%20.%20%20MAREJADA%20%20%20ROBERTO%20ANTONIO~1.mp3"
+  },
+  {
+    "title": "046 .  EL NEGRO NO PUEDE   LAS CHICAS DEL CAN",
+    "url": "https://archive.org/download/9382747183728172/046%20.%20%20EL%20NEGRO%20NO%20PUEDE%20%20%20LAS%20CHICAS%20DEL%20CAN~1.mp3"
+  },
+  {
+    "title": "047 .  LAMBADA  KAOMA",
+    "url": "https://archive.org/download/9382747183728172/047%20.%20%20LAMBADA%20%20KAOMA~1.mp3"
+  },
+  {
+    "title": "048 . LA CIGUAPA  CHICHI PERALTA",
+    "url": "https://archive.org/download/9382747183728172/048%20.%20LA%20CIGUAPA%20%20CHICHI%20PERALTA~1.mp3"
+  },
+  {
+    "title": "049 .  NOCHES VACIAS   KAROLINA",
+    "url": "https://archive.org/download/9382747183728172/049%20.%20%20NOCHES%20VACIAS%20%20%20KAROLINA~1.mp3"
+  },
+  {
+    "title": "050 .  VOY A PEDIR SU MANO  JUAN LUIS GUERRA",
+    "url": "https://archive.org/download/9382747183728172/050%20.%20%20VOY%20A%20PEDIR%20SU%20MANO%20%20JUAN%20LUIS%20GUERRA~1.mp3"
+  }
+]
+
+```
