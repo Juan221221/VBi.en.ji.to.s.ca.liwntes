@@ -1,52 +1,202 @@
 [
-  { "title": "01. P~1", "url": "https://archive.org/download/86853147842586/01.%20P~1.mp3" },
-  { "title": "02. L~1", "url": "https://archive.org/download/86853147842586/02.%20L~1.mp3" },
-  { "title": "03. E~1", "url": "https://archive.org/download/86853147842586/03.%20E~1.mp3" },
-  { "title": "04. E~1", "url": "https://archive.org/download/86853147842586/04.%20E~1.mp3" },
-  { "title": "05. D~1", "url": "https://archive.org/download/86853147842586/05.%20D~1.mp3" },
-  { "title": "06. S~1", "url": "https://archive.org/download/86853147842586/06.%20S~1.mp3" },
-  { "title": "07. P~1", "url": "https://archive.org/download/86853147842586/07.%20P~1.mp3" },
-  { "title": "08. E~1", "url": "https://archive.org/download/86853147842586/08.%20E~1.mp3" },
-  { "title": "09. L~1", "url": "https://archive.org/download/86853147842586/09.%20L~1.mp3" },
-  { "title": "10. E~1", "url": "https://archive.org/download/86853147842586/10.%20E~1.mp3" },
-  { "title": "11. E~1", "url": "https://archive.org/download/86853147842586/11.%20E~1.mp3" },
-  { "title": "12. L~1", "url": "https://archive.org/download/86853147842586/12.%20L~1.mp3" },
-  { "title": "13. E~1", "url": "https://archive.org/download/86853147842586/13.%20E~1.mp3" },
-  { "title": "14. L~1", "url": "https://archive.org/download/86853147842586/14.%20L~1.mp3" },
-  { "title": "15. C~1", "url": "https://archive.org/download/86853147842586/15.%20C~1.mp3" },
-  { "title": "16. E~1", "url": "https://archive.org/download/86853147842586/16.%20E~1.mp3" },
-  { "title": "17. L~1", "url": "https://archive.org/download/86853147842586/17.%20L~1.mp3" },
-  { "title": "18. C~1", "url": "https://archive.org/download/86853147842586/18.%20C~1.mp3" },
-  { "title": "19. P~1", "url": "https://archive.org/download/86853147842586/19.%20P~1.mp3" },
-  { "title": "20. L~1", "url": "https://archive.org/download/86853147842586/20.%20L~1.mp3" },
-  { "title": "21. L~1", "url": "https://archive.org/download/86853147842586/21.%20L~1.mp3" },
-  { "title": "22. L~1", "url": "https://archive.org/download/86853147842586/22.%20L~1.mp3" },
-  { "title": "23. L~1", "url": "https://archive.org/download/86853147842586/23.%20L~1.mp3" },
-  { "title": "24. C~1", "url": "https://archive.org/download/86853147842586/24.%20C~1.mp3" },
-  { "title": "25. E~1", "url": "https://archive.org/download/86853147842586/25.%20E~1.mp3" },
-  { "title": "26. L~1", "url": "https://archive.org/download/86853147842586/26.%20L~1.mp3" },
-  { "title": "27. E~1", "url": "https://archive.org/download/86853147842586/27.%20E~1.mp3" },
-  { "title": "28. L~1", "url": "https://archive.org/download/86853147842586/28.%20L~1.mp3" },
-  { "title": "29. P~1", "url": "https://archive.org/download/86853147842586/29.%20P~1.mp3" },
-  { "title": "30. E~1", "url": "https://archive.org/download/86853147842586/30.%20E~1.mp3" },
-  { "title": "31. L~1", "url": "https://archive.org/download/86853147842586/31.%20L~1.mp3" },
-  { "title": "32. E~1", "url": "https://archive.org/download/86853147842586/32.%20E~1.mp3" },
-  { "title": "33. P~1", "url": "https://archive.org/download/86853147842586/33.%20P~1.mp3" },
-  { "title": "34. L~1", "url": "https://archive.org/download/86853147842586/34.%20L~1.mp3" },
-  { "title": "35. E~1", "url": "https://archive.org/download/86853147842586/35.%20E~1.mp3" },
-  { "title": "36. L~1", "url": "https://archive.org/download/86853147842586/36.%20L~1.mp3" },
-  { "title": "37. E~1", "url": "https://archive.org/download/86853147842586/37.%20E~1.mp3" },
-  { "title": "38. P~1", "url": "https://archive.org/download/86853147842586/38.%20P~1.mp3" },
-  { "title": "39. L~1", "url": "https://archive.org/download/86853147842586/39.%20L~1.mp3" },
-  { "title": "40. E~1", "url": "https://archive.org/download/86853147842586/40.%20E~1.mp3" },
-  { "title": "41. E~1", "url": "https://archive.org/download/86853147842586/41.%20E~1.mp3" },
-  { "title": "42. L~1", "url": "https://archive.org/download/86853147842586/42.%20L~1.mp3" },
-  { "title": "43. E~1", "url": "https://archive.org/download/86853147842586/43.%20E~1.mp3" },
-  { "title": "44. L~1", "url": "https://archive.org/download/86853147842586/44.%20L~1.mp3" },
-  { "title": "45. E~1", "url": "https://archive.org/download/86853147842586/45.%20E~1.mp3" },
-  { "title": "46. P~1", "url": "https://archive.org/download/86853147842586/46.%20P~1.mp3" },
-  { "title": "47. L~1", "url": "https://archive.org/download/86853147842586/47.%20L~1.mp3" },
-  { "title": "48. E~1", "url": "https://archive.org/download/86853147842586/48.%20E~1.mp3" },
-  { "title": "49. L~1", "url": "https://archive.org/download/86853147842586/49.%20L~1.mp3" },
-  { "title": "50. E~1", "url": "https://archive.org/download/86853147842586/50.%20E~1.mp3" }
+  {
+    "title": "001____T~1",
+    "url": "https://archive.org/download/827381749174917372/001____T~1.mp3"
+  },
+  {
+    "title": "002_____~1",
+    "url": "https://archive.org/download/827381749174917372/002_____~1.mp3"
+  },
+  {
+    "title": "003____L~1",
+    "url": "https://archive.org/download/827381749174917372/003____L~1.mp3"
+  },
+  {
+    "title": "004____F~1",
+    "url": "https://archive.org/download/827381749174917372/004____F~1.mp3"
+  },
+  {
+    "title": "005____R~1",
+    "url": "https://archive.org/download/827381749174917372/005____R~1.mp3"
+  },
+  {
+    "title": "006____O~1",
+    "url": "https://archive.org/download/827381749174917372/006____O~1.mp3"
+  },
+  {
+    "title": "007____S~1",
+    "url": "https://archive.org/download/827381749174917372/007____S~1.mp3"
+  },
+  {
+    "title": "008___DA~1",
+    "url": "https://archive.org/download/827381749174917372/008___DA~1.mp3"
+  },
+  {
+    "title": "009____E~1",
+    "url": "https://archive.org/download/827381749174917372/009____E~1.mp3"
+  },
+  {
+    "title": "010____M~1",
+    "url": "https://archive.org/download/827381749174917372/010____M~1.mp3"
+  },
+  {
+    "title": "011___TU~1",
+    "url": "https://archive.org/download/827381749174917372/011___TU~1.mp3"
+  },
+  {
+    "title": "012____C~1",
+    "url": "https://archive.org/download/827381749174917372/012____C~1.mp3"
+  },
+  {
+    "title": "013____C~1",
+    "url": "https://archive.org/download/827381749174917372/013____C~1.mp3"
+  },
+  {
+    "title": "014____C~1",
+    "url": "https://archive.org/download/827381749174917372/014____C~1.mp3"
+  },
+  {
+    "title": "015____S~1",
+    "url": "https://archive.org/download/827381749174917372/015____S~1.mp3"
+  },
+  {
+    "title": "016____G~1",
+    "url": "https://archive.org/download/827381749174917372/016____G~1.mp3"
+  },
+  {
+    "title": "017___CU~1",
+    "url": "https://archive.org/download/827381749174917372/017___CU~1.mp3"
+  },
+  {
+    "title": "018____R~1",
+    "url": "https://archive.org/download/827381749174917372/018____R~1.mp3"
+  },
+  {
+    "title": "019___SO~1",
+    "url": "https://archive.org/download/827381749174917372/019___SO~1.mp3"
+  },
+  {
+    "title": "020____C~1",
+    "url": "https://archive.org/download/827381749174917372/020____C~1.mp3"
+  },
+  {
+    "title": "021____C~1",
+    "url": "https://archive.org/download/827381749174917372/021____C~1.mp3"
+  },
+  {
+    "title": "022____F~1",
+    "url": "https://archive.org/download/827381749174917372/022____F~1.mp3"
+  },
+  {
+    "title": "023____L~1",
+    "url": "https://archive.org/download/827381749174917372/023____L~1.mp3"
+  },
+  {
+    "title": "024___LA~1",
+    "url": "https://archive.org/download/827381749174917372/024___LA~1.mp3"
+  },
+  {
+    "title": "025___MO~1",
+    "url": "https://archive.org/download/827381749174917372/025___MO~1.mp3"
+  },
+  {
+    "title": "026____D~1",
+    "url": "https://archive.org/download/827381749174917372/026____D~1.mp3"
+  },
+  {
+    "title": "027_____~1",
+    "url": "https://archive.org/download/827381749174917372/027_____~1.mp3"
+  },
+  {
+    "title": "028____L~1",
+    "url": "https://archive.org/download/827381749174917372/028____L~1.mp3"
+  },
+  {
+    "title": "029___LA~1",
+    "url": "https://archive.org/download/827381749174917372/029___LA~1.mp3"
+  },
+  {
+    "title": "030____L~1",
+    "url": "https://archive.org/download/827381749174917372/030____L~1.mp3"
+  },
+  {
+    "title": "031____L~1",
+    "url": "https://archive.org/download/827381749174917372/031____L~1.mp3"
+  },
+  {
+    "title": "032____M~1",
+    "url": "https://archive.org/download/827381749174917372/032____M~1.mp3"
+  },
+  {
+    "title": "033____P~1",
+    "url": "https://archive.org/download/827381749174917372/033____P~1.mp3"
+  },
+  {
+    "title": "034____Y~1",
+    "url": "https://archive.org/download/827381749174917372/034____Y~1.mp3"
+  },
+  {
+    "title": "035____L~1",
+    "url": "https://archive.org/download/827381749174917372/035____L~1.mp3"
+  },
+  {
+    "title": "036____L~1",
+    "url": "https://archive.org/download/827381749174917372/036____L~1.mp3"
+  },
+  {
+    "title": "037____L~1",
+    "url": "https://archive.org/download/827381749174917372/037____L~1.mp3"
+  },
+  {
+    "title": "038_____~1",
+    "url": "https://archive.org/download/827381749174917372/038_____~1.mp3"
+  },
+  {
+    "title": "039_____~1",
+    "url": "https://archive.org/download/827381749174917372/039_____~1.mp3"
+  },
+  {
+    "title": "040____A~1",
+    "url": "https://archive.org/download/827381749174917372/040____A~1.mp3"
+  },
+  {
+    "title": "041____C~1",
+    "url": "https://archive.org/download/827381749174917372/041____C~1.mp3"
+  },
+  {
+    "title": "042_____~1",
+    "url": "https://archive.org/download/827381749174917372/042_____~1.mp3"
+  },
+  {
+    "title": "043_____~1",
+    "url": "https://archive.org/download/827381749174917372/043_____~1.mp3"
+  },
+  {
+    "title": "044___LA~1",
+    "url": "https://archive.org/download/827381749174917372/044___LA~1.mp3"
+  },
+  {
+    "title": "045_____~1",
+    "url": "https://archive.org/download/827381749174917372/045_____~1.mp3"
+  },
+  {
+    "title": "046____S~1",
+    "url": "https://archive.org/download/827381749174917372/046____S~1.mp3"
+  },
+  {
+    "title": "047____R~1",
+    "url": "https://archive.org/download/827381749174917372/047____R~1.mp3"
+  },
+  {
+    "title": "048_____~1",
+    "url": "https://archive.org/download/827381749174917372/048_____~1.mp3"
+  },
+  {
+    "title": "049____L~1",
+    "url": "https://archive.org/download/827381749174917372/049____L~1.mp3"
+  },
+  {
+    "title": "050____T~1",
+    "url": "https://archive.org/download/827381749174917372/050____T~1.mp3"
+  }
 ]
